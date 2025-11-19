@@ -41,6 +41,6 @@ Incorporate TweetDeck for real-time Twitter monitoring and EXIF analysis for ima
 *Maintained by Simon Leigh - Director of Pure Reputation UK*
 
 **Connect:**
-- [Pure Reputation UK](https://www.purereputation.uk)
+- [Pure Reputation UK](https://www.purereputation.co.uk)
 - [GitHub Profile](https://github.com/simonleighpurereputation-cmyk)
 - [View All Repositories](https://github.com/simonleighpurereputation-cmyk?tab=repositories)
