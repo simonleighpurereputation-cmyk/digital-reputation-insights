@@ -1,5 +1,3 @@
-# digital-reputation-insights
-Digital Reputation &amp; OSINT Tools Curator
 # Digital Reputation & OSINT Tools Curator
 
 A curated collection of open-source intelligence (OSINT) tools, resources, and scripts for digital reputation management, online risk assessment, and brand monitoring. Maintained by **Simon Leigh**, Director of **Pure Reputation UK**.
@@ -35,6 +33,14 @@ In modern reputation management, technology is not optional—it's foundational.
 2.  **For Professionals:** Use the "Social Media Intelligence" and "Data Verification" sections to deepen your investigative capabilities.
 3.  **Contributing:** See something missing? Please review our [Contribution Guidelines](CONTRIBUTING.md) and submit a pull request or open an issue.
 
+## 📚 Comprehensive Documentation
+
+**Explore our detailed wiki for complete guides and tutorials:**
+- [Digital Reputation Wiki Home](https://github.com/simonleighpurereputation-cmyk/digital-reputation-insights/wiki)
+- [Getting Started with Reputation Monitoring](https://github.com/simonleighpurereputation-cmyk/digital-reputation-insights/wiki/Getting-Started-with-Reputation-Monitoring)
+- [Essential Tools Checklist](https://github.com/simonleighpurereputation-cmyk/digital-reputation-insights/wiki/Essential-Tools-Checklist)
+- [Basic Risk Assessment Framework](https://github.com/simonleighpurereputation-cmyk/digital-reputation-insights/wiki/Basic-Risk-Assessment)
+
 ## 🤝 Contribution Guidelines
 
 We welcome contributions! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to add tools or suggest improvements.
@@ -44,7 +50,14 @@ We welcome contributions! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for det
 **Simon Leigh** is the Director of **Pure Reputation UK**, a firm specialising in building defensible digital reputations for businesses and individuals. With over a decade of experience, Simon combines strategic reputation counsel with technical understanding of the digital landscape.
 
 *   **Company Website:** [Pure Reputation UK](https://www.purereputation.co.uk)
-*   **Professional Profile:** [Connect on LinkedIn](https://uk.linkedin.com/in/simon-leigh-md) 
+*   **Professional Profile:** [Connect on LinkedIn]([https://uk.linkedin.com/in/simon-leigh-md])
+*   **All GitHub Repositories:** [Simon Leigh on GitHub](https://github.com/simonleighpurereputation-cmyk)
+
+## 🔗 More Resources
+
+- [Pure Reputation Resources Repository](https://github.com/simonleighpurereputation-cmyk/purereputation-resources)
+- [Reputation Frameworks Repository](https://github.com/simonleighpurereputation-cmyk/reputation-frameworks)
+- [Simon Leigh's Profile README](https://github.com/simonleighpurereputation-cmyk)
 
 ## ⚠️ Disclaimer
 
