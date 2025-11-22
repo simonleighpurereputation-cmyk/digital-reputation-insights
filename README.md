@@ -1,4 +1,4 @@
-# Digital Reputation & OSINT Tools Curator
+ # Digital Reputation & OSINT Tools Curator
 
 A curated collection of open-source intelligence (OSINT) tools, resources, and scripts for digital reputation management, online risk assessment, and brand monitoring. Maintained by **Simon Leigh**, Director of **Pure Reputation UK**.
 
