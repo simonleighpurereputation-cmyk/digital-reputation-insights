@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Crawl-delay: 1
+
+# Simon Leigh Pure Reputation Sitemap
+Sitemap: https://simonleighpurereputation-cmyk.github.io/digital-reputation-insights/sitemap.xml
+
+# Priority directories
+Allow: /article-
+Allow: /wiki/
+Allow: /tools/
+Allow: /guides/
+
+# Disallow nothing - we want all content indexed
+Disallow: 
