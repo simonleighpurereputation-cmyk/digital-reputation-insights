@@ -1,55 +1,175 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <!-- GitHub Pages Site -->
-  <url>
-    <loc>https://simonleighpurereputation-cmyk.github.io/digital-reputation-insights/</loc>
-    <lastmod>2024-01-15</lastmod>
-    <priority>1.0</priority>
-  </url>
-  
-  <!-- Main GitHub Profile -->
-  <url>
-    <loc>https://github.com/simonleighpurereputation-cmyk</loc>
-    <priority>0.9</priority>
-  </url>
-  
-  <!-- All Repositories -->
-  <url>
-    <loc>https://github.com/simonleighpurereputation-cmyk/simonleighpurereputation-cmyk</loc>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://github.com/simonleighpurereputation-cmyk/digital-reputation-insights</loc>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://github.com/simonleighpurereputation-cmyk/purereputation-resources</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://github.com/simonleighpurereputation-cmyk/reputation-frameworks</loc>
-    <priority>0.8</priority>
-  </url>
-  
-  <!-- Important Content Pages -->
-  <url>
-    <loc>https://github.com/simonleighpurereputation-cmyk/digital-reputation-insights/blob/main/README.md</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://github.com/simonleighpurereputation-cmyk/digital-reputation-insights/blob/main/CONTRIBUTING.md</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://github.com/simonleighpurereputation-cmyk/digital-reputation-insights/blob/main/tools/essential-osint-tools.md</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://github.com/simonleighpurereputation-cmyk/purereputation-resources/blob/main/README.md</loc>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://github.com/simonleighpurereputation-cmyk/reputation-frameworks/blob/main/README.md</loc>
-    <priority>0.7</priority>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+        
+    <!-- Simon Leigh Pure Reputation - Main GitHub Pages -->
+    <url>
+        <loc>https://simonleighpurereputation-cmyk.github.io/digital-reputation-insights/</loc>
+        <lastmod>2024-01-08</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- Simon Leigh Articles -->
+    <url>
+        <loc>https://simonleighpurereputation-cmyk.github.io/digital-reputation-insights/article-digital-reputation-basics</loc>
+        <lastmod>2024-01-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <url>
+        <loc>https://simonleighpurereputation-cmyk.github.io/digital-reputation-insights/article-osint-tools-business</loc>
+        <lastmod>2024-01-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- Simon Leigh GitHub Profile & Repositories -->
+    <url>
+        <loc>https://github.com/simonleighpurereputation-cmyk</loc>
+        <lastmod>2024-01-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://github.com/simonleighpurereputation-cmyk/simonleighpurereputation-cmyk</loc>
+        <lastmod>2024-01-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
+        <loc>https://github.com/simonleighpurereputation-cmyk/digital-reputation-insights</loc>
+        <lastmod>2024-01-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://github.com/simonleighpurereputation-cmyk/purereputation-resources</loc>
+        <lastmod>2024-01-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://github.com/simonleighpurereputation-cmyk/reputation-frameworks</loc>
+        <lastmod>2024-01-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Simon Leigh Repository Files -->
+    <url>
+        <loc>https://github.com/simonleighpurereputation-cmyk/digital-reputation-insights/blob/main/README.md</loc>
+        <lastmod>2024-01-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://github.com/simonleighpurereputation-cmyk/digital-reputation-insights/blob/main/CONTRIBUTING.md</loc>
+        <lastmod>2024-01-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://github.com/simonleighpurereputation-cmyk/digital-reputation-insights/blob/main/tools/essential-osint-tools.md</loc>
+        <lastmod>2024-01-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://github.com/simonleighpurereputation-cmyk/digital-reputation-insights/blob/main/guides/getting-started.md</loc>
+        <lastmod>2024-01-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://github.com/simonleighpurereputation-cmyk/purereputation-resources/blob/main/README.md</loc>
+        <lastmod>2024-01-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <url>
+        <loc>https://github.com/simonleighpurereputation-cmyk/reputation-frameworks/blob/main/README.md</loc>
+        <lastmod>2024-01-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <!-- Simon Leigh Wiki Pages -->
+    <url>
+        <loc>https://github.com/simonleighpurereputation-cmyk/digital-reputation-insights/wiki</loc>
+        <lastmod>2024-01-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://github.com/simonleighpurereputation-cmyk/digital-reputation-insights/wiki/Home</loc>
+        <lastmod>2024-01-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://github.com/simonleighpurereputation-cmyk/digital-reputation-insights/wiki/Getting-Started-with-Reputation-Monitoring</loc>
+        <lastmod>2024-01-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://github.com/simonleighpurereputation-cmyk/digital-reputation-insights/wiki/Essential-Tools-Checklist</loc>
+        <lastmod>2024-01-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <url>
+        <loc>https://github.com/simonleighpurereputation-cmyk/digital-reputation-insights/wiki/Basic-Risk-Assessment</loc>
+        <lastmod>2024-01-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <!-- Simon Leigh External Profiles -->
+    <url>
+        <loc>https://about.me/simonleighpurereputation</loc>
+        <lastmod>2024-01-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    <url>
+        <loc>https://vocal.media/fyi/simon-leigh-pure-reputation-best-company</loc>
+        <lastmod>2024-01-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.mylondon.news/special-features/pure-reputation-celebrates-10-years-20351072</loc>
+        <lastmod>2024-01-08</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.4</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.purereputation.co.uk</loc>
+        <lastmod>2024-01-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
 </urlset>
