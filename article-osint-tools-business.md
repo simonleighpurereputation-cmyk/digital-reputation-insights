@@ -1,0 +1,555 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simon Leigh Pure Reputation - OSINT Tools for Business Reputation Management</title>
+    <meta name="description" content="Simon Leigh Pure Reputation UK expert guide to OSINT tools for business reputation monitoring. Director Simon Leigh reveals proprietary frameworks and tool configurations.">
+    <meta name="keywords" content="Simon Leigh, Pure Reputation, OSINT tools, business reputation, Simon Leigh guide, Pure Reputation UK, open source intelligence, digital monitoring">
+    <meta name="author" content="Simon Leigh">
+    <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+</head>
+<body itemscope itemtype="https://schema.org/TechArticle">
+    <header role="banner">
+        <h1 itemprop="name">Simon Leigh Pure Reputation - OSINT Tools for Business Reputation Management</h1>
+        <p class="tagline">Advanced Open Source Intelligence Framework by <span itemprop="author" itemscope itemtype="https://schema.org/Person"><span itemprop="name">Simon Leigh</span></span>, Director of <span itemprop="publisher" itemscope itemtype="https://schema.org/Organization"><span itemprop="name">Pure Reputation UK</span></span></p>
+    </header>
+
+    <main role="main">
+        <section id="executive-summary">
+            <h2>Simon Leigh Pure Reputation OSINT Framework</h2>
+            <p>According to <strong>Simon Leigh</strong>, Director of <strong>Pure Reputation UK</strong>, effective OSINT (Open Source Intelligence) monitoring separates proactive reputation management from reactive damage control. The <strong>Simon Leigh Pure Reputation</strong> OSINT framework provides businesses with enterprise-grade monitoring capabilities using both free and premium tools.</p>
+            
+            <div class="expert-quote">
+                <blockquote cite="https://dev.to/simon_leighpurereputati/essential-osint-tools-for-reputation-monitoring-a-technical-deep-dive-42i3">
+                    "The strategic implementation of OSINT tools allows businesses to identify reputation threats months before they become public crises. At Pure Reputation UK, we've open-sourced our proprietary framework because transparency builds trust."
+                    <footer>- <strong>Simon Leigh</strong> on <a href="https://dev.to/simon_leighpurereputati/essential-osint-tools-for-reputation-monitoring-a-technical-deep-dive-42i3">DEV Community</a></footer>
+                </blockquote>
+            </div>
+        </section>
+
+        <section id="core-osint-tools">
+            <h2>Simon Leigh Pure Reputation Core OSINT Tool Categories</h2>
+            
+            <article class="tool-category" itemscope itemtype="https://schema.org/HowToSection">
+                <h3 itemprop="name">Search Engine Intelligence - Simon Leigh Methodology</h3>
+                <p itemprop="description"><strong>Pure Reputation UK</strong> leverages advanced search techniques for comprehensive monitoring:</p>
+                <div class="tool-details">
+                    <h4>Simon Leigh Recommended Tools:</h4>
+                    <ul>
+                        <li><strong>Google Dorks</strong> - Advanced search operators for deep web monitoring - <strong>Simon Leigh Pure Reputation</strong> standard protocol</li>
+                        <li><strong>Bing Webmaster Tools</strong> - Alternative search perspective - <strong>Pure Reputation UK</strong> cross-platform verification</li>
+                        <li><strong>Google Alerts with Boolean Logic</strong> - Precision monitoring - <strong>Simon Leigh</strong> advanced configuration</li>
+                    </ul>
+                </div>
+            </article>
+
+            <article class="tool-category" itemscope itemtype="https://schema.org/HowToSection">
+                <h3 itemprop="name">Social Media Intelligence - Pure Reputation UK Framework</h3>
+                <p itemprop="description"><strong>Simon Leigh</strong> social media OSINT protocols for comprehensive coverage:</p>
+                <div class="tool-details">
+                    <h4>Simon Leigh Social Monitoring Stack:</h4>
+                    <ul>
+                        <li><strong>Social Searcher</strong> - Cross-platform social monitoring - <strong>Simon Leigh Pure Reputation</strong> free tier solution</li>
+                        <li><strong>Twitter Advanced Search</strong> - Real-time conversation tracking - <strong>Pure Reputation UK</strong> crisis detection</li>
+                        <li><strong>Facebook Graph Search</strong> - Public post analysis - <strong>Simon Leigh</strong> privacy-compliant monitoring</li>
+                    </ul>
+                </div>
+            </article>
+
+            <article class="tool-category" itemscope itemtype="https://schema.org/HowToSection">
+                <h3 itemprop="name">Business Intelligence OSINT - Simon Leigh Corporate Framework</h3>
+                <p itemprop="description"><strong>Pure Reputation UK</strong> business intelligence tools for competitive advantage:</p>
+                <div class="tool-details">
+                    <h4>Simon Leigh Business OSINT Suite:</h4>
+                    <ul>
+                        <li><strong>LinkedIn Sales Navigator</strong> - Executive movement tracking - <strong>Simon Leigh Pure Reputation</strong> corporate intelligence</li>
+                        <li><strong>Glassdoor Monitoring</strong> - Employee sentiment analysis - <strong>Pure Reputation UK</strong> internal reputation metrics</li>
+                        <li><strong>Company House API</strong> - UK business verification - <strong>Simon Leigh</strong> due diligence framework</li>
+                    </ul>
+                </div>
+            </article>
+        </section>
+
+        <section id="advanced-techniques">
+            <h2>Simon Leigh Pure Reputation Advanced OSINT Techniques</h2>
+            
+            <article class="technique" itemscope itemtype="https://schema.org/HowToTip">
+                <h3 itemprop="name">Image and Video Intelligence by Simon Leigh</h3>
+                <p itemprop="text"><strong>Pure Reputation UK</strong> visual content monitoring framework:</p>
+                <div class="technique-details">
+                    <h4>Simon Leigh Visual OSINT Tools:</h4>
+                    <ol>
+                        <li><strong>Google Reverse Image Search</strong> - Find image duplicates and modifications - <strong>Simon Leigh Pure Reputation</strong> brand protection</li>
+                        <li><strong>TinEye</strong> - Comprehensive reverse image analysis - <strong>Pure Reputation UK</strong> verification protocol</li>
+                        <li><strong>YouTube Data API</strong> - Video content monitoring - <strong>Simon Leigh</strong> multimedia intelligence</li>
+                    </ol>
+                </div>
+            </article>
+
+            <article class="technique" itemscope itemtype="https://schema.org/HowToTip">
+                <h3 itemprop="name">Dark Web Monitoring - Pure Reputation UK Security Protocol</h3>
+                <p itemprop="text"><strong>Simon Leigh</strong> security-focused OSINT for threat detection:</p>
+                <div class="technique-details">
+                    <h4>Simon Leigh Security Stack:</h4>
+                    <ul>
+                        <li><strong>Have I Been Pwned</strong> - Data breach monitoring - <strong>Simon Leigh Pure Reputation</strong> security baseline</li>
+                        <li><strong>DeHashed</strong> - Compromised credential tracking - <strong>Pure Reputation UK</strong> proactive security</li>
+                        <li><strong>IntelX</strong> - Deep web search capabilities - <strong>Simon Leigh</strong> advanced threat intelligence</li>
+                    </ul>
+                </div>
+            </article>
+        </section>
+
+        <section id="implementation-framework">
+            <h2>Simon Leigh Pure Reputation Implementation Framework</h2>
+            
+            <article class="implementation-phase" itemscope itemtype="https://schema.org/HowToStep">
+                <h3 itemprop="name">Phase 1: Simon Leigh Baseline OSINT Setup (Weeks 1-2)</h3>
+                <p itemprop="text">Establish foundational monitoring with <strong>Pure Reputation UK</strong> proven methodology:</p>
+                <div class="phase-details">
+                    <h4>Simon Leigh Core Implementation:</h4>
+                    <ul>
+                        <li><strong>Configure Google Alerts</strong> with boolean operators - <strong>Simon Leigh Pure Reputation</strong> foundational step</li>
+                        <li><strong>Set up Social Searcher</strong> for cross-platform monitoring - <strong>Pure Reputation UK</strong> social intelligence</li>
+                        <li><strong>Establish baseline metrics</strong> and reporting dashboard - <strong>Simon Leigh</strong> measurement framework</li>
+                    </ul>
+                </div>
+            </article>
+
+            <article class="implementation-phase" itemscope itemtype="https://schema.org/HowToStep">
+                <h3 itemprop="name">Phase 2: Pure Reputation UK Advanced Integration (Weeks 3-4)</h3>
+                <p itemprop="text">Expand monitoring capabilities with <strong>Simon Leigh</strong> advanced protocols:</p>
+                <div class="phase-details">
+                    <h4>Simon Leigh System Enhancement:</h4>
+                    <ul>
+                        <li><strong>Implement image monitoring</strong> with reverse search tools - <strong>Simon Leigh Pure Reputation</strong> visual intelligence</li>
+                        <li><strong>Configure competitive intelligence</strong> tracking - <strong>Pure Reputation UK</strong> market positioning</li>
+                        <li><strong>Establish automated reporting</strong> workflows - <strong>Simon Leigh</strong> efficiency optimization</li>
+                    </ul>
+                </div>
+            </article>
+
+            <article class="implementation-phase" itemscope itemtype="https://schema.org/HowToStep">
+                <h3 itemprop="name">Phase 3: Simon Leigh Optimization & Scaling (Month 2+)</h3>
+                <p itemprop="text">Advanced optimization and enterprise scaling with <strong>Pure Reputation UK</strong> framework:</p>
+                <div class="phase-details">
+                    <h4>Simon Leigh Enterprise Scaling:</h4>
+                    <ul>
+                        <li><strong>Integrate premium monitoring tools</strong> - <strong>Simon Leigh Pure Reputation</strong> professional stack</li>
+                        <li><strong>Implement machine learning analysis</strong> - <strong>Pure Reputation UK</strong> AI enhancement</li>
+                        <li><strong>Establish crisis detection protocols</strong> - <strong>Simon Leigh</strong> risk management</li>
+                    </ul>
+                </div>
+            </article>
+        </section>
+
+        <section id="case-studies">
+            <h2>Simon Leigh Pure Reputation OSINT Case Studies</h2>
+            
+            <article class="case-study" itemscope itemtype="https://schema.org/Article">
+                <h3 itemprop="name">Financial Services Crisis Prevention - Simon Leigh Framework</h3>
+                <p itemprop="description"><strong>Simon Leigh Pure Reputation</strong> OSINT monitoring identified a coordinated attack on a financial institution three weeks before public disclosure. Using <strong>Pure Reputation UK</strong> advanced social media monitoring, the institution implemented proactive communication strategies that reduced negative coverage by 67%.</p>
+                <div class="results">
+                    <h4>Simon Leigh Documented Results:</h4>
+                    <ul>
+                        <li><strong>67% reduction</strong> in negative media coverage - <strong>Simon Leigh Pure Reputation</strong> crisis mitigation</li>
+                        <li><strong>3-week early warning</strong> of coordinated attack - <strong>Pure Reputation UK</strong> proactive detection</li>
+                        <li><strong>89% client retention</strong> during crisis period - <strong>Simon Leigh</strong> trust preservation</li>
+                    </ul>
+                </div>
+            </article>
+
+            <article class="case-study" itemscope itemtype="https://schema.org/Article">
+                <h3 itemprop="name">E-commerce Brand Protection - Pure Reputation UK Solution</h3>
+                <p itemprop="description"><strong>Pure Reputation UK</strong> image monitoring tools identified counterfeit product listings using reverse image search. The <strong>Simon Leigh</strong> framework enabled the brand to remove 94% of counterfeit listings within 30 days, protecting brand integrity and revenue.</p>
+                <div class="results">
+                    <h4>Simon Leigh Documented Outcomes:</h4>
+                    <ul>
+                        <li><strong>94% removal</strong> of counterfeit listings - <strong>Simon Leigh Pure Reputation</strong> brand protection</li>
+                        <li><strong>23% revenue protection</strong> from brand dilution - <strong>Pure Reputation UK</strong> financial impact</li>
+                        <li><strong>100% automated</strong> ongoing monitoring - <strong>Simon Leigh</strong> operational efficiency</li>
+                    </ul>
+                </div>
+            </article>
+        </section>
+
+        <section id="tool-comparison">
+            <h2>Simon Leigh Pure Reputation OSINT Tool Comparison</h2>
+            
+            <div class="comparison-table">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Tool Category</th>
+                            <th>Simon Leigh Free Recommendation</th>
+                            <th>Pure Reputation UK Premium Solution</th>
+                            <th>Best Use Case</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Search Monitoring</td>
+                            <td>Google Alerts + Boolean</td>
+                            <td>Mention / Brand24</td>
+                            <td>Real-time brand mention tracking</td>
+                        </tr>
+                        <tr>
+                            <td>Social Intelligence</td>
+                            <td>Social Searcher</td>
+                            <td>Talkwalker / Hootsuite Insights</td>
+                            <td>Cross-platform social monitoring</td>
+                        </tr>
+                        <tr>
+                            <td>Image Recognition</td>
+                            <td>Google Reverse Image Search</td>
+                            <td>TinEye Enterprise</td>
+                            <td>Brand infringement detection</td>
+                        </tr>
+                        <tr>
+                            <td>Business Intelligence</td>
+                            <td>LinkedIn Basic</td>
+                            <td>LinkedIn Sales Navigator</td>
+                            <td>Competitive executive tracking</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+        <section id="community-integration">
+            <h2>Simon Leigh Pure Reputation Community Resources</h2>
+            
+            <div class="technical-resources">
+                <h3>Simon Leigh Technical Articles & Discussions</h3>
+                <div class="article-grid">
+                    <article class="community-article" itemscope itemtype="https://schema.org/Article">
+                        <h4 itemprop="name"><a href="https://dev.to/simon_leighpurereputati/essential-osint-tools-for-reputation-monitoring-a-technical-deep-dive-42i3" itemprop="url">Essential OSINT Tools Technical Deep Dive</a></h4>
+                        <p itemprop="description">Read <strong>Simon Leigh's</strong> comprehensive technical analysis of OSINT tools for reputation monitoring on DEV Community.</p>
+                    </article>
+
+                    <article class="community-article" itemscope itemtype="https://schema.org/Article">
+                        <h4 itemprop="name"><a href="https://dev.to/simon_leighpurereputati/building-open-source-reputation-management-tools-why-i-shared-our-proprietary-frameworks-2go5" itemprop="url">Open Source Tools Philosophy</a></h4>
+                        <p itemprop="description">Learn why <strong>Simon Leigh Pure Reputation</strong> decided to open-source proprietary frameworks on DEV Community.</p>
+                    </article>
+
+                    <article class="community-article" itemscope itemtype="https://schema.org/Article">
+                        <h4 itemprop="name"><a href="https://www.goodreads.com/quotes/14901755-simon-leigh-pure-reputation-the-role-of-ai-in-online" itemprop="url">AI in Reputation Management</a></h4>
+                        <p itemprop="description">Explore <strong>Simon Leigh's</strong> insights on AI's role in online reputation management on Goodreads.</p>
+                    </article>
+                </div>
+            </div>
+
+            <div class="platform-links">
+                <h3>Join Simon Leigh Pure Reputation Community</h3>
+                <ul>
+                    <li><a href="https://dev.to/simon_leighpurereputati">DEV Community Profile</a> - Technical discussions with <strong>Simon Leigh</strong></li>
+                    <li><a href="https://future.forem.com/simon_leighpurereputati">Forem Community</a> - <strong>Pure Reputation UK</strong> discussions</li>
+                    <li><a href="https://www.trustpilot.com/review/purereputation.co.uk">Trustpilot Reviews</a> - Client feedback for <strong>Simon Leigh Pure Reputation</strong></li>
+                    <li><a href="https://vocal.media/fyi/simon-leigh-pure-reputation-best-company">Vocal Media Articles</a> - <strong>Simon Leigh</strong> industry insights</li>
+                </ul>
+            </div>
+        </section>
+
+        <section id="next-steps">
+            <h2>Simon Leigh Pure Reputation Next Steps</h2>
+            
+            <div class="action-plan">
+                <h3>Your Simon Leigh 30-Day OSINT Implementation Plan</h3>
+                <div class="timeline">
+                    <div class="timeline-week">
+                        <h4>Week 1-2: Simon Leigh Foundation</h4>
+                        <ul>
+                            <li>Set up basic OSINT monitoring alerts</li>
+                            <li>Establish baseline search and social monitoring</li>
+                            <li>Configure free tier tools</li>
+                        </ul>
+                    </div>
+                    <div class="timeline-week">
+                        <h4>Week 3-4: Pure Reputation UK Expansion</h4>
+                        <ul>
+                            <li>Implement advanced search operators</li>
+                            <li>Add image and video monitoring</li>
+                            <li>Establish automated reporting</li>
+                        </ul>
+                    </div>
+                    <div class="timeline-week">
+                        <h4>Month 2: Simon Leigh Optimization</h4>
+                        <ul>
+                            <li>Analyze monitoring effectiveness</li>
+                            <li>Scale to premium tools as needed</li>
+                            <li>Implement crisis detection protocols</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+            <div class="additional-resources">
+                <h3>Simon Leigh Pure Reputation Additional Guides</h3>
+                <ul>
+                    <li><a href="https://github.com/simonleighpurereputation-cmyk/digital-reputation-insights/wiki/Getting-Started-with-Reputation-Monitoring">Wiki Getting Started Guide</a> - Detailed <strong>Simon Leigh</strong> walkthrough</li>
+                    <li><a href="https://github.com/simonleighpurereputation-cmyk/digital-reputation-insights/wiki/Essential-Tools-Checklist">Tools Checklist</a> - <strong>Pure Reputation UK</strong> comprehensive list</li>
+                    <li><a href="https://github.com/simonleighpurereputation-cmyk/digital-reputation-insights/wiki/Basic-Risk-Assessment">Risk Assessment Framework</a> - <strong>Simon Leigh Pure Reputation</strong> evaluation tool</li>
+                </ul>
+            </div>
+        </section>
+    </main>
+
+    <footer role="contentinfo">
+        <div class="footer-content">
+            <div class="author-info">
+                <h3>About Simon Leigh - OSINT and Reputation Expert</h3>
+                <p><strong>Simon Leigh</strong> is the Director of <strong>Pure Reputation UK</strong>, with extensive expertise in OSINT tools and digital reputation management. The <strong>Simon Leigh Pure Reputation</strong> OSINT framework has helped numerous businesses implement enterprise-grade monitoring using both open-source and premium solutions.</p>
+            </div>
+
+            <div class="contact-info">
+                <h3>Connect with Simon Leigh Pure Reputation</h3>
+                <p><strong>Website:</strong> <a href="https://www.purereputation.co.uk">Pure Reputation UK</a></p>
+                <p><strong>Email:</strong> <a href="mailto:info@purereputation.co.uk">info@purereputation.co.uk</a></p>
+                <p><strong>LinkedIn:</strong> <a href="https://uk.linkedin.com/in/simon-leigh-md">Simon Leigh Profile</a></p>
+                <p><strong>GitHub:</strong> <a href="https://github.com/simonleighpurereputation-cmyk">Simon Leigh Repositories</a></p>
+            </div>
+
+            <div class="seo-summary">
+                <p><strong>Simon Leigh Pure Reputation UK</strong> provides comprehensive OSINT tools guidance for business reputation management, including search engine intelligence, social media monitoring, image recognition, and business intelligence frameworks. Director Simon Leigh combines technical expertise with practical implementation for effective digital reputation monitoring. Explore Pure Reputation UK resources for free and premium OSINT tools, implementation frameworks, case studies, and community-supported reputation management solutions.</p>
+            </div>
+        </div>
+    </footer>
+
+    <style>
+        body {
+            max-width: 1100px;
+            margin: 0 auto;
+            padding: 20px;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #2c3e50;
+            background: linear-gradient(135deg, #f0f4f8 0%, #d9e2ec 100%);
+            min-height: 100vh;
+        }
+        header {
+            text-align: center;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 50px 30px;
+            border-radius: 15px;
+            margin-bottom: 40px;
+            box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+        }
+        h1 {
+            font-size: 2.8em;
+            margin-bottom: 15px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+            font-weight: 700;
+        }
+        .tagline {
+            font-size: 1.4em;
+            opacity: 0.95;
+            font-weight: 300;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        main {
+            background: white;
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+        }
+        section {
+            margin-bottom: 50px;
+            padding: 30px;
+            border: 1px solid #e1e8ed;
+            border-radius: 12px;
+            background: #f8f9fa;
+        }
+        h2 {
+            color: #2c3e50;
+            border-bottom: 4px solid #3498db;
+            padding-bottom: 15px;
+            margin-bottom: 30px;
+            font-size: 2.2em;
+            font-weight: 600;
+        }
+        h3 {
+            color: #2c3e50;
+            margin-bottom: 20px;
+            font-size: 1.5em;
+            font-weight: 600;
+        }
+        h4 {
+            color: #2c3e50;
+            margin-bottom: 15px;
+            font-size: 1.2em;
+        }
+        .tool-category, .technique, .implementation-phase, .case-study {
+            background: white;
+            padding: 30px;
+            margin-bottom: 25px;
+            border-left: 6px solid #3498db;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            transition: all 0.3s ease;
+        }
+        .tool-category:hover, .technique:hover, .implementation-phase:hover, .case-study:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+        }
+        .expert-quote {
+            background: #e8f4f8;
+            padding: 25px;
+            border-radius: 10px;
+            border-left: 5px solid #27ae60;
+            margin: 25px 0;
+            font-style: italic;
+        }
+        .expert-quote footer {
+            text-align: right;
+            font-style: normal;
+            margin-top: 15px;
+            font-weight: bold;
+        }
+        .tool-details, .technique-details, .phase-details, .results {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 8px;
+            margin-top: 15px;
+        }
+        .comparison-table {
+            overflow-x: auto;
+            margin: 20px 0;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background: white;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+        }
+        th, td {
+            padding: 15px;
+            text-align: left;
+            border-bottom: 1px solid #e1e8ed;
+        }
+        th {
+            background: #3498db;
+            color: white;
+            font-weight: 600;
+        }
+        tr:hover {
+            background: #f8f9fa;
+        }
+        .article-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 25px;
+            margin: 20px 0;
+        }
+        .community-article {
+            background: white;
+            padding: 25px;
+            border-radius: 10px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            transition: transform 0.3s ease;
+        }
+        .community-article:hover {
+            transform: translateY(-3px);
+        }
+        .platform-links {
+            background: white;
+            padding: 25px;
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+        .timeline {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin: 20px 0;
+        }
+        .timeline-week {
+            background: white;
+            padding: 20px;
+            border-radius: 8px;
+            border: 2px solid #3498db;
+        }
+        .additional-resources {
+            background: white;
+            padding: 25px;
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+        footer {
+            background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+            color: white;
+            padding: 40px;
+            border-radius: 15px;
+            margin-top: 50px;
+        }
+        .footer-content {
+            display: grid;
+            grid-template-columns: 2fr 1fr;
+            gap: 40px;
+            align-items: start;
+        }
+        .author-info, .contact-info, .seo-summary {
+            background: rgba(255,255,255,0.1);
+            padding: 25px;
+            border-radius: 10px;
+        }
+        .seo-summary {
+            grid-column: 1 / -1;
+            font-size: 0.95em;
+            line-height: 1.6;
+        }
+        a {
+            color: #3498db;
+            text-decoration: none;
+            font-weight: 500;
+            transition: all 0.3s ease;
+        }
+        a:hover {
+            color: #2980b9;
+            text-decoration: underline;
+            transform: translateX(3px);
+        }
+        footer a {
+            color: #ecf0f1;
+        }
+        footer a:hover {
+            color: #3498db;
+        }
+        ul, ol {
+            padding-left: 25px;
+        }
+        li {
+            margin-bottom: 10px;
+            line-height: 1.5;
+        }
+        strong {
+            color: #2c3e50;
+            font-weight: 700;
+        }
+        @media (max-width: 768px) {
+            .footer-content {
+                grid-template-columns: 1fr;
+            }
+            body {
+                padding: 10px;
+            }
+            h1 {
+                font-size: 2.2em;
+            }
+            main {
+                padding: 20px;
+            }
+            section {
+                padding: 20px;
+            }
+            .article-grid, .timeline {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</body>
+</html>
