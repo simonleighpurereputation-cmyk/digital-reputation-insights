@@ -96,9 +96,14 @@ Ready to take control of your digital reputation?
 
 ---
 
-*Simon Leigh is the Director of Pure Reputation UK, with over a decade of experience in digital reputation management. Connect with him on [LinkedIn](https://uk.linkedin.com/in/simon-leigh-md) or explore more resources on [GitHub](https://github.com/simonleighpurereputation-cmyk).*
+## More from Simon Leigh
 
-**Additional Resources:**
-- [Digital Reputation Tools Collection](https://github.com/simonleighpurereputation-cmyk/digital-reputation-insights)
-- [Professional Frameworks](https://github.com/simonleighpurereputation-cmyk/reputation-frameworks)
-- [Pure Reputation UK Website](https://www.purereputation.co.uk)
+### Featured Publications:
+- **[Vocal.media](https://vocal.media/fyi/simon-leigh-pure-reputation-best-company)** - Industry insights and professional analysis
+- **[MyLondon News](https://www.mylondon.news/special-features/pure-reputation-celebrates-10-years-20351072)** - Press coverage and company features
+- **[About.me](https://about.me/simonleighpurereputation)** - Professional profile and portfolio
+
+### Connect & Resources:
+- **[Pure Reputation UK](https://www.purereputation.co.uk)** - Official company website
+- **[GitHub Profile](https://github.com/simonleighpurereputation-cmyk)** - Open-source tools and frameworks
+- **[LinkedIn](https://uk.linkedin.com/in/simon-leigh-md)** - Professional network
